@@ -24,9 +24,6 @@
    python main.py
    ```
 
-## Gameplay
-![Gameplay Screenshot](gameplay.png)
-
 ## Credits
 - Spaceship image: [Link to source]
 - Sound effects: [Link to source]
